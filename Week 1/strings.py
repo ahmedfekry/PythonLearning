@@ -76,3 +76,6 @@ print(name[-5:-2]) #slice from the end of the string
 
 
 
+
+
+
